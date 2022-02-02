@@ -1,1 +1,1 @@
-# marafon_calculator
+# marafon
