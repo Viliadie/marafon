@@ -11,4 +11,5 @@ function fibonacci(n) {
             output.push(output[output.length - 2] + output[output.length - 1]);
         }
     }
+    return output;
 }
